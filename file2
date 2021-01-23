@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Page Title </title>
+</head>
+<body>
+<centre>
+<h1> Please refer below flights scheduled for today </h1>
+<p> Gwalior to Jammu at 0100hrs </p>
+<p> Gwalior to Delhi at 0900hrs </p>
+<p> Gwalior to Pune at 1300hrs </p>
+</centre>
+</body>
+</html>
